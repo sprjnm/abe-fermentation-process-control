@@ -1,0 +1,9 @@
+*.asv
+*.autosave
+*.slxc
+*.slx.autosave
+*.mat
+slprj/
+codegen/
+*.log
+.DS_Store
