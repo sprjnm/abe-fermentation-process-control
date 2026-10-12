@@ -30,7 +30,7 @@ scripts/
   PCProjectCHECK.m   Supplementary computational/checking script (see limitations)
 ```
 
-These are the original course-project source files; their original names are retained. **The Simulink model binaries will be uploaded separately and may not yet appear in this repository.**
+These are the original course-project source files; their original names are retained.
 
 ## How to explore
 
