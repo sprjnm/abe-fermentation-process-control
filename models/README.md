@@ -1,5 +1,10 @@
 # Simulink model files
 
-The original `.slx` files will be placed in this folder: `PCProject1.slx`, `PCProject3.slx`, `PCProject4.slx`, and `PCProject5.slx`.
+This directory contains the four original course-project Simulink models:
 
-Until they are uploaded, download the GitHub-ready ZIP package shared with the project author.
+- `PCProject1.slx` — base fermentation–flash process model
+- `PCProject3.slx` — disturbance-response study
+- `PCProject4.slx` — PI-control loop study
+- `PCProject5.slx` — supplementary control-study model
+
+The models were created with MATLAB/Simulink R2024a. They have not been independently re-executed in the publication-preparation environment. See the [repository README](../README.md) for execution notes and limitations.
